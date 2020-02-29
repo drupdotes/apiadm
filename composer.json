@@ -22,6 +22,7 @@
         "drupal/devel": "^2.1",
         "drupal/field_permissions": "^1.0@RC",
         "drupal/file_mdm": "^2.0",
+        "drupal/geofield": "^1.8",
         "drupal/image_effects": "^3.0",
         "drupal/imagemagick": "^3.1",
         "drupal/imce": "^1.7",
