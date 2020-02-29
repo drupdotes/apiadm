@@ -5692,16 +5692,16 @@
         },
         {
             "name": "symfony/finder",
-            "version": "v3.4.37",
+            "version": "v3.4.38",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
-                "reference": "a90a9d3b9f458a5cdeabfa4090b20c000ca3962f"
+                "reference": "5ec813ccafa8164ef21757e8c725d3a57da59200"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/finder/zipball/a90a9d3b9f458a5cdeabfa4090b20c000ca3962f",
-                "reference": "a90a9d3b9f458a5cdeabfa4090b20c000ca3962f",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/5ec813ccafa8164ef21757e8c725d3a57da59200",
+                "reference": "5ec813ccafa8164ef21757e8c725d3a57da59200",
                 "shasum": ""
             },
             "require": {
@@ -5737,7 +5737,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2020-01-01T11:03:25+00:00"
+            "time": "2020-02-14T07:34:21+00:00"
         },
         {
             "name": "symfony/http-foundation",
@@ -8420,61 +8420,6 @@
             "description": "Virtual file system to mock the real file system in unit tests.",
             "homepage": "http://vfs.bovigo.org/",
             "time": "2019-10-30T15:31:00+00:00"
-        },
-        {
-            "name": "pear/console_table",
-            "version": "v1.3.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/pear/Console_Table.git",
-                "reference": "1930c11897ca61fd24b95f2f785e99e0f36dcdea"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/pear/Console_Table/zipball/1930c11897ca61fd24b95f2f785e99e0f36dcdea",
-                "reference": "1930c11897ca61fd24b95f2f785e99e0f36dcdea",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.2.0"
-            },
-            "suggest": {
-                "pear/Console_Color2": ">=0.1.2"
-            },
-            "type": "library",
-            "autoload": {
-                "classmap": [
-                    "Table.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-2-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Jan Schneider",
-                    "homepage": "http://pear.php.net/user/yunosh"
-                },
-                {
-                    "name": "Tal Peer",
-                    "homepage": "http://pear.php.net/user/tal"
-                },
-                {
-                    "name": "Xavier Noguer",
-                    "homepage": "http://pear.php.net/user/xnoguer"
-                },
-                {
-                    "name": "Richard Heyes",
-                    "homepage": "http://pear.php.net/user/richard"
-                }
-            ],
-            "description": "Library that makes it easy to build console style tables.",
-            "homepage": "http://pear.php.net/package/Console_Table/",
-            "keywords": [
-                "console"
-            ],
-            "time": "2018-01-25T20:47:17+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
