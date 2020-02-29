@@ -13,16 +13,26 @@
         "php": ">=7.0.8",
         "composer/installers": "^1.0.20",
         "cweagans/composer-patches": "^1.0",
-        "drupal/core-composer-scaffold": "^8.8.1",
+        "drupal/colorbox": "^1.4",
         "drupal/config_direct_save": "^1.0",
         "drupal/config_installer": "^1.0",
         "drupal/console": "^1",
+        "drupal/core-composer-scaffold": "^8.8.1",
+        "drupal/core-recommended": "^8.8",
+        "drupal/devel": "^2.1",
+        "drupal/field_permissions": "^1.0@RC",
+        "drupal/file_mdm": "^2.0",
+        "drupal/image_effects": "^3.0",
+        "drupal/imagemagick": "^3.1",
+        "drupal/imce": "^1.7",
+        "drupal/inline_entity_form": "^1.0@RC",
+        "drupal/linkit": "5.x-dev",
+        "drupal/wisski": "1.x-dev",
         "drush-ops/behat-drush-endpoint": "^9.3",
-        "drush/drush": "~8.3",
+        "drush/drush": "^9.7",
+        "pantheon-systems/drupal-integrations": "^8",
         "pantheon-systems/quicksilver-pushback": "^2",
         "rvtraveller/qs-composer-installer": "^1.1",
-        "drupal/core-recommended": "^8.8",
-        "pantheon-systems/drupal-integrations": "^8",
         "zaporylie/composer-drupal-optimizations": "^1.0"
     },
     "require-dev": {
@@ -45,7 +55,7 @@
     "conflict": {
             "drupal/drupal": "*"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
         "classmap": [
